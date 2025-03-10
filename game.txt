@@ -1,0 +1,9 @@
+Let's make a game!
+	name:Toshi Clicker
+	by:Alyonka
+	desc:Click toshi
+	created:03/10/2025
+	version:0.0
+
+Settings
+		background:https://i.imgur.com/odkLzuh.jpeg
