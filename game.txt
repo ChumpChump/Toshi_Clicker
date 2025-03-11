@@ -1,31 +1,20 @@
 Let's make a game!
-	name:Toshi Clicker
-	by:Alyonka
-	desc:Click toshi
-	created:03/10/2025
-	version:0.0
+name: Toshi Clicker
+by: Alyonka
+desc: Click toshi
+created: 03/10/2025
+version: 0.0
 
 Settings
-	background:https://i.imgur.com/NWydQ5A.jpeg
+    tiling background: https://i.imgur.com/FzfWEMH.jpeg
 
-Layout
-  *resources
-    contains:Resources
-    header:These are your resources.
-  *buildings
-    contains:Buildings
-    header:These are things you can build.
-    tooltip origin:left
-  *unlockables
-    contains:Upgrades, Achievements
-    names:hide
+variable: toshi
+    start: 0
+    format: whole number
 
-
-Button
-    text: Click Toshi!
-    variable: toshi
+object: Toshi
+    cost: 0 toshi
     on click: toshi += 1
-    image: https://i.imgur.com/b4rjJDj.png
-    size: 200
+    image: https://i.imgur.com/YOUR_IMAGE.png
     position: 50% 50%
-
+    size: 200
