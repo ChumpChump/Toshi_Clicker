@@ -6,5 +6,5 @@ Let's make a game!
 	version:0.0
 
 Settings
-	background:https://i.imgur.com/FzfWEMH.jpeg
+	tiling background:https://i.imgur.com/FzfWEMH.jpeg
 
