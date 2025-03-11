@@ -19,3 +19,13 @@ Layout
   *unlockables
     contains:Upgrades, Achievements
     names:hide
+
+
+Button
+    text: Click Toshi!
+    variable: toshi
+    on click: toshi += 1
+    image: https://i.imgur.com/b4rjJDj.png
+    size: 200
+    position: 50% 50%
+
