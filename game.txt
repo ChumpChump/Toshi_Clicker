@@ -7,5 +7,5 @@ Let's make a game!
 
 Settings
 	tiling background:https://i.imgur.com/FzfWEMH.jpeg
-	scroll speed: -10
+	scroll speed: -100
 
