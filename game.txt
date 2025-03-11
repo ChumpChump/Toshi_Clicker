@@ -8,3 +8,14 @@ Let's make a game!
 Settings
 	background:https://i.imgur.com/NWydQ5A.jpeg
 
+Layout
+  *resources
+    contains:Resources
+    header:These are your resources.
+  *buildings
+    contains:Buildings
+    header:These are things you can build.
+    tooltip origin:left
+  *unlockables
+    contains:Upgrades, Achievements
+    names:hide
