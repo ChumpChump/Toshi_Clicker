@@ -6,6 +6,5 @@ Let's make a game!
 	version:0.0
 
 Settings
-	tiling background:https://i.imgur.com/FzfWEMH.jpeg
-	scroll speed: -100
+	background:https://i.imgur.com/NWydQ5A.jpeg
 
