@@ -6,4 +6,4 @@ Let's make a game!
 	version:0.0
 
 Settings
-	background:https://imgur.com/FzfWEMH
+	background:https://imgur.com/FzfWEMH.jpg
